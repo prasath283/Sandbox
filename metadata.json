@@ -1,0 +1,5 @@
+{
+  "name": "Cerebrum Sandbox",
+  "description": "An advanced AI-powered adaptive threat analysis sandbox that leverages Google AI to perform intelligent, real-time threat detection, live analysis, and AI-driven prediction against Highly Evasive Adaptive Threats (HEAT).",
+  "requestFramePermissions": []
+}
